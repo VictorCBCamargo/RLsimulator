@@ -1,3 +1,6 @@
+The RLsimulator is a simulator that includes five programs (each one for a different standard deviation estimator) to analyze the impacts of each estimator on the proportion of RL0 values in three intervals between 1 and 200 (as explained in the paper intitled "Unconditional Performance of the X-bar Chart: Comparison Between Five Standard Deviation Estimators")
+
+
 This file aims to explain the parameters to be used in running the simulations and their possible values. The parameters may be set in the file named "input.txt".
 
 Parameter definition:
